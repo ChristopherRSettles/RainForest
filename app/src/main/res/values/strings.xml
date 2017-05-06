@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">RainForest Animals</string>
+    <string name="sample_name">Billy Bob</string>
+    <string name="sample_phone">630-867-5309</string>
+    <string name="fact_button_text">Fun Fact</string>
+    <string name="sound_button_text">Play animal sound</string>
+    <string name="saying_dialog_text">Fun Fact: </string>
+    <string name="sound_toast">Doesn\'t it sound lovely?</string>
+    <string name="welcome_splash">Welcome to the rainforest. </string>
+
+    <string name="name1">Amazon River Dolphin</string>
+    <string name="name2">Anaconda</string>
+    <string name="name3">Capybara </string>
+    <string name="name4">Glass Frog</string>
+    <string name="name5">Golden Lion Tamarin</string>
+    <string name="name6">Jaguar</string>
+    <string name="name7">Kinkajou</string>
+    <string name="name8">Macaw</string>
+    <string name="name9">Spider Monkey</string>
+    <string name="name10">Three-toed Sloth</string>
+
+    <string name="sciname1">Inia geoffrensis</string>
+    <string name="sciname2">Eunectes murinus</string>
+    <string name="sciname3">Hydrochoerus \nhydrochaeris</string>
+    <string name="sciname4">Hyalinobatrachium \ndianae</string>
+    <string name="sciname5">Leontopithecus Rosalia</string>
+    <string name="sciname6">Panthera onca</string>
+    <string name="sciname7">Potos flayus</string>
+    <string name="sciname8">Ara macao</string>
+    <string name="sciname9">Ateles chamek</string>
+    <string name="sciname10">Bradypus torquatus</string>
+
+    <string name="fact1">The dolphins are pink due to their blood capillaries being near the surface of their skin. </string>
+    <string name="fact2">The biggest anaconda ever found was 44 inches in girth and 28ft long, with an estimated weight of 500lbs.</string>
+    <string name="fact3">Capybara’s never stay too far away from water, because once they sense danger, they dive right in. </string>
+    <string name="fact4">Because of its translucent skin, various organs can be seen without the need of x-ray. </string>
+    <string name="fact5">Known for being the smallest primates on the earth, considering adults grow to about 20cm. </string>
+    <string name="fact6">With its powerful jaws, its capable of biting through a sea turtle’s shell. </string>
+    <string name="fact7">Mostly known as bear-monkey and rarely seen because it is a nocturnal creature. They can be kept as house pets, but could potentially carry roundworm parasites. </string>
+    <string name="fact8">A macaw’s tongue has a bone and can sometimes mimic human speech. </string>
+    <string name="fact9">The hairless tail tips allow for a stronger grip, and their mobile joints allow for easy swinging from branches.</string>
+    <string name="fact10">A sloth’s tongue is 10-12 inches long and is mostly used to chew leaves.  </string>
+
+</resources>

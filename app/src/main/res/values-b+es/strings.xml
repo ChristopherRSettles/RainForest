@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">RainForest Animals</string>
+    <string name="sample_name">Billy Bob</string>
+    <string name="sample_phone">630-867-5309</string>
+
+    <string name="welcome_splash">Bienvenido a la selva tropical. </string>
+    <string name="fact_button_text">Hecho de la Diversión</string>
+    <string name="sound_button_text">Play animal sound</string>
+    <string name="saying_dialog_text">hecho de la diversión: </string>
+    <string name="sound_toast">¿No suena encantador?</string>
+
+    <string name="name1">Amazon River Dolphin</string>
+    <string name="name2">Anaconda</string>
+    <string name="name3">Capybara </string>
+    <string name="name4">Glass Frog</string>
+    <string name="name5">Golden Lion Tamarin</string>
+    <string name="name6">Jaguar</string>
+    <string name="name7">Kinkajou</string>
+    <string name="name8">Macaw</string>
+    <string name="name9">Spider Monkey</string>
+    <string name="name10">Three-toed Sloth</string>
+
+    <string name="sciname1">Inia geoffrensis</string>
+    <string name="sciname2">Eunectes murinus</string>
+    <string name="sciname3">Hydrochoerus \nhydrochaeris</string>
+    <string name="sciname4">Hyalinobatrachium \ndianae</string>
+    <string name="sciname5">Leontopithecus Rosalia</string>
+    <string name="sciname6">Panthera onca</string>
+    <string name="sciname7">Potos flayus</string>
+    <string name="sciname8">Ara macao</string>
+    <string name="sciname9">Ateles chamek</string>
+    <string name="sciname10">Bradypus torquatus</string>
+
+    <string name="fact1">Los delfines son rosados debido a que sus capilares sanguíneos están cerca de la superficie de su piel.</string>
+    <string name="fact2">La anaconda más grande jamás encontrado fue de 44 pulgadas de circunferencia y 28 pies de largo, con un peso estimado de 500 libras.</string>
+    <string name="fact3">Los capivara nunca se quedan demasiado lejos del agua, porque una vez que perciben el peligro, se zambullen a la derecha adentro.</string>
+    <string name="fact4">Debido a su piel translúcida, varios órganos pueden ser vistos sin la necesidad de la radiografía.</string>
+    <string name="fact5">Conocido por ser los primates más pequeños de la tierra, considerando que los adultos crecen a unos 20 cm.</string>
+    <string name="fact6">Con sus poderosas mandíbulas, es capaz de morder a través de una concha de tortuga marina.</string>
+    <string name="fact7">Conocido sobre todo como mono del oso y visto raramente porque es una criatura nocturna. Pueden ser mantenidos como animales domésticos de la casa, pero podrían llevar potencialmente parásitos del verraco redondo.</string>
+    <string name="fact8">La lengua de un guacamayo tiene un hueso ya veces puede imitar el habla humana. </string>
+    <string name="fact9">Las puntas de la cola sin pelo permiten un agarre más fuerte, y sus articulaciones móviles permiten un fácil balanceo de las ramas.</string>
+    <string name="fact10">La lengua de un perezoso es 10-12 pulgadas de largo y se utiliza sobre todo para masticar las hojas.</string>
+
+</resources>
